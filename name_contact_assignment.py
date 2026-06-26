@@ -1,5 +1,3 @@
-import re
-
 class ContactManager:
     def __init__(self):
         # We use a dictionary where the key is the contact's name 
